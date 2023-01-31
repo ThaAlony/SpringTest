@@ -1,0 +1,7 @@
+longobardo\giovanni\prova\ProvaApplication.class
+longobardo\giovanni\prova\Employee.class
+longobardo\giovanni\prova\LoadDatabase.class
+longobardo\giovanni\prova\EmployeeNotFoundAdvice.class
+longobardo\giovanni\prova\EmployeeRepository.class
+longobardo\giovanni\prova\EmployeeController.class
+longobardo\giovanni\prova\EmployeeNotFoundException.class
